@@ -9,4 +9,4 @@ A simple Python app that fetches weather data using the OpenWeatherMap API.
 
 ## Requirements
 - Python 3.x
-- OpenWeatherMap API key (⚠️ note: the free key used in this project has expired — generate a new one at [OpenWeatherMap])
+- OpenWeatherMap API key
