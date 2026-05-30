@@ -10,3 +10,6 @@ A simple Python app that fetches weather data using the OpenWeatherMap API.
 ## Requirements
 - Python 3.x
 - OpenWeatherMap API key
+
+## Demo
+- ![Weather App Screenshot]
