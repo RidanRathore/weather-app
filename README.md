@@ -12,4 +12,4 @@ A simple Python app that fetches weather data using the OpenWeatherMap API.
 - OpenWeatherMap API key
 
 ## Demo
-- ![Weather App Screenshot]
+- ![Weather App Screenshot](https://github.com/RidanRathore/weather-app/commit/d28a06b913571f8e90e9a94f707643662b492546)
