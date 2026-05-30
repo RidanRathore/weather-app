@@ -1,14 +1,12 @@
-# Rock Paper Scissors Game 🎮
+# Weather App 🌦️
 
-A simple Python implementation of the classic Rock‑Paper‑Scissors game.
+A simple Python app that fetches weather data using the OpenWeatherMap API.
 
 ## Features
-- Play against the computer
-- Randomized computer choices
-- Clear win/lose/draw messages
-- Uses emojies for more fun 🎉
-- After a win asks continue or not
+- Get current temperature, humidity, and weather description
+- Works for any city (via API query)
+- Text-based output in terminal
 
-## About
-- Runs in terminal
-- Text-based simple game
+## Requirements
+- Python 3.x
+- OpenWeatherMap API key (⚠️ note: the free key used in this project has expired — generate a new one at [OpenWeatherMap])
